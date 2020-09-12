@@ -3,10 +3,8 @@
 
 ## Integrantes
 [William Barreto](https://github.com/WilliamBarretoH)
-[César Almeida](https://github.com/cesaralmeida93)
 
-## Pacotes de terceiros utilizados
-- l5-Repository - andersao/l5-repository -versão: ^2.6
+[César Almeida](https://github.com/cesaralmeida93)
 
 ## Project setup
 - Clonar através do comando:
